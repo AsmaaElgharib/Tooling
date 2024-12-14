@@ -2,5 +2,5 @@
 - git init
 - git add .
 - git commit -m "init"
-- git remote add origin [repo_url]      #first time only
-- git push -u origin main/master/... #git branch to check or create new one 
+- git remote add origin [repo_url]      --first time only
+- git push -u origin main/master/... --git branch to check or create new one 
