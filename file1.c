@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("app1_test3\n");
+    printf("app1_test2\n");
     return 0;
 }
